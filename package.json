@@ -1,0 +1,9 @@
+{
+  "name": "electron-api-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/promise94/electron-api-demo.git",
+  "author": "lixiaowei <promise9495@163.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
